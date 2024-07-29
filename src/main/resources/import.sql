@@ -1,0 +1,4 @@
+insert into Socio (dni,telefono,direccion,fecha_Nacimiento,email,nivel,nombre,apellidos,sexo,mediode_Pago) values ('57463528H',645243946,'La calle de la patata','2222-05-05','hdgs@thd.com',3,'iouqyer','wertetr','hombre',2);
+insert into Socio (dni,telefono,direccion,fecha_Nacimiento,email,nivel,nombre,apellidos,sexo,mediode_Pago) values ('75634245T',618263045,'La calle de la cebolla','1333-06-05','lkjha@thd.com',2,'adfasdf','iuywer','mujer',2);
+insert into Socio (dni,telefono,direccion,fecha_Nacimiento,email,nivel,nombre,apellidos,sexo,mediode_Pago) values ('74510463R',630125467,'La calle de la huevo','2002-03-03','kjhas@thd.com',1,'mnbxcx','kjhsdf','hombre',1);
+insert into Socio (dni,telefono,direccion,fecha_Nacimiento,email,nivel,nombre,apellidos,sexo,mediode_Pago) values ('74635284F',674625162,'La calle olvidada','2001-02-04','sdfg@thd.com',4,'fhgjfghj','ryurtyu','hombre',1);

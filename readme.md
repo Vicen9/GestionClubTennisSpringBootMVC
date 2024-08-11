@@ -1,6 +1,3 @@
-## Autor
-* Vicente Castellano Gomez, vicentecastellano65@gmail.com - vcg00025@red.ujaen.es
-
 # Gestión Club de Tenis - Spring Boot MVC
 
 Este proyecto es un ejemplo de una aplicación web CRUD para la gestión de un club de tenis, implementada con **Spring Boot** y **MVC (Model-View-Controller)**. La aplicación permite administrar socios, reservas y eventos del club, proporcionando una interfaz amigable y funcional.
@@ -40,3 +37,6 @@ Este proyecto es un ejemplo de una aplicación web CRUD para la gestión de un c
 3. Configura la base de datos en `application.properties`.
 4. Compila y ejecuta el proyecto con Maven: `mvn clean install` y `mvn spring-boot:run`.
 5. Accede a la aplicación en `http://localhost:8080`.
+
+## Autor
+* Vicente Castellano Gomez, vicentecastellano65@gmail.com - vcg00025@red.ujaen.es
